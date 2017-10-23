@@ -1,1 +1,1 @@
-HRR
+This is a basic project in R for data analysis and prediction using Machine Learning principles
